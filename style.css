@@ -1,0 +1,68 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.section{
+    width: 50%;
+    background-color: rgb(238, 241, 243);
+    padding: 10px;
+    margin-left: 350px;
+}
+
+.container{
+    margin: 100px;
+}
+
+.row{
+    margin: 50px;
+}
+
+
+.row h1{
+    text-align: center;
+    color: orangered;
+}
+
+form{
+    margin-left: 40px;
+}
+
+.details{
+    width: 300px;
+    height: 40px;
+    background-color: rgb(222, 216, 216);
+    border: 1px solid rgb(234, 229, 229);
+    border-radius: 10px;
+}
+
+.name{
+    display: block;
+}
+
+.email{
+    width: 620px;
+    height: 40px;
+    background-color: rgb(222, 216, 216);
+    border: 1px solid rgb(234, 229, 229);
+    border-radius: 10px;
+}
+
+.star{
+    font-size: 50px;
+    color: rgb(242, 219, 10);
+}
+
+#nostar{
+    color: rgb(196, 192, 192);
+}
+
+.row button{
+    width: 620px;
+    height: 40px;
+    background-color: orangered;
+    border: 1px solid orangered;
+    border-radius: 4px;
+    color: white;
+}
+
